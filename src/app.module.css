@@ -20,8 +20,15 @@ body {
   flex: 1 1 30%;
 }
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 1120px) {
   .content {
     flex-direction: column;
   }
-} ;
+
+  .detail,
+  .list {
+    flex: none;
+    width: 90%;
+    margin: 0 auto;
+  }
+}

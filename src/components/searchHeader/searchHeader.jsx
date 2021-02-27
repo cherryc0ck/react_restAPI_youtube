@@ -26,7 +26,7 @@ const SearchHeader = memo((props) => {
 
   return (
     <header className={styles.header}>
-      <a href="www.naver.com" className={styles.logo}>
+      <a href="#" className={styles.logo}>
         <img className={styles.img}src="/images/logo.png" alt="logo" />
         <h1 className={styles.title}>Premium</h1>
       </a>
@@ -46,10 +46,10 @@ const SearchHeader = memo((props) => {
       </button>
 
       <div className={styles.container}>
-        <div className={`${styles.category} ${styles.lol}`} onClick={categoryClick} data-name="react">
+        <div className={`${styles.category} ${styles.react}`} onClick={categoryClick} data-name="react">
         <img src="/images/react.webp" alt="category react"/>
         </div>
-        <div className={`${styles.category} ${styles.react}`} onClick={categoryClick} data-name="lol">
+        <div className={`${styles.category} ${styles.lol}`} onClick={categoryClick} data-name="lol">
           <img src="/images/lol.png" alt="category lol" />
         </div>
         <div className={`${styles.category} ${styles.music}`} onClick={categoryClick} data-name="music">

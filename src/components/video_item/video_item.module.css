@@ -1,5 +1,5 @@
 .container {
-  padding: 25px 0 30px 40px;
+  padding: 30px 20px;
 }
 
 .container.grid {
@@ -8,7 +8,6 @@
 
 .container.list {
   width: 100%;
-  padding: 25px 30px 30px 40px;
 }
 
 .video {
@@ -84,4 +83,26 @@
 
 .count {
   margin-right: 20px;
+}
+
+@media screen and (max-width: 1280px) {
+  .container.grid {
+    width: 33.3%;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  .container.grid {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .container {
+    padding: 30px 45px;
+  }
+
+  .container.grid {
+    width: 100%;
+  }
 }

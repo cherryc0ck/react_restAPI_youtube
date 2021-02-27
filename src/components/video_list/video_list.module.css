@@ -1,8 +1,5 @@
 .videos {
   display: flex;
   flex-wrap: wrap;
-  /* background-color: ghostwhite; */
-  background-color: lavenderblush;
-  background-color: #fafafa;
   background-color: ghostwhite;
 }

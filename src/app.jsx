@@ -1,7 +1,6 @@
 import { useCallback, useEffect, useState } from 'react';
 import styles from './app.module.css';
 import SearchHeader from './components/searchHeader/searchHeader';
-import Sidebar from './components/sidebar/sidebar';
 import VideoDetail from './components/video_detail/video_detail';
 import VideoList from './components/video_list/video_list';
 import './reset.css';

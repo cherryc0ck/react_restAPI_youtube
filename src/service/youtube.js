@@ -1,5 +1,4 @@
 import axios from 'axios';
-
 class Youtube {
   constructor(key){
     this.youtube = axios.create({

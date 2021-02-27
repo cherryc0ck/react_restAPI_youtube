@@ -1,4 +1,5 @@
 .video {
+  height: 550px;
   padding: 0;
   margin-bottom: 20px;
 }
@@ -29,6 +30,10 @@
   color: #424242;
   font-weight: 400;
   margin-bottom: 20px;
+}
+
+.btn__container {
+  display: flex;
 }
 
 .btn {
@@ -87,4 +92,40 @@
   font-size: 16px;
   font-weight: 300;
   line-height: 1.4em;
+  white-space: pre-wrap;
+}
+
+@media screen and (max-width: 1120px) {
+  .video {
+    height: 450px;
+  }
+}
+
+@media screen and (max-width: 780px) {
+  .video {
+    height: 350px;
+  }
+
+  .btn span {
+    font-size: 16px;
+  }
+
+  .btn {
+    padding: 0 10px;
+    font-size: 18px;
+  }
+
+  .statistics__container {
+    justify-content: flex-start;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .statistics__container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .info {
+    margin-bottom: 15px;
+  }
 }
