@@ -1,5 +1,10 @@
 import React, { memo, useRef } from 'react';
 import styles from './searchHeader.module.css';
+import logo from './images/logo.png';
+import react from './images/react.webp';
+import lol from './images/lol.png';
+import music from './images/music.png';
+import profile from './images/profile.jpg';
 
 const SearchHeader = memo((props) => {
   const inputRef = useRef();
@@ -27,7 +32,7 @@ const SearchHeader = memo((props) => {
   return (
     <header className={styles.header}>
       <a href="#" className={styles.logo}>
-        <img className={styles.img}src="/images/logo.png" alt="logo" />
+        <img className={styles.img}src={logo} alt="logo" />
         <h1 className={styles.title}>Premium</h1>
       </a>
       <input 
@@ -47,18 +52,18 @@ const SearchHeader = memo((props) => {
 
       <div className={styles.container}>
         <div className={`${styles.category} ${styles.react}`} onClick={categoryClick} data-name="react">
-        <img src="/images/react.webp" alt="category react"/>
+        <img src={react} alt="category react"/>
         </div>
         <div className={`${styles.category} ${styles.lol}`} onClick={categoryClick} data-name="lol">
-          <img src="/images/lol.png" alt="category lol" />
+          <img src={lol} alt="category lol" />
         </div>
         <div className={`${styles.category} ${styles.music}`} onClick={categoryClick} data-name="music">
-          <img src="/images/music.png" alt="category music" />
+          <img src={music} alt="category music" />
         </div>
       </div>
       <div className={styles.profile}>
         <div className={styles.profileContent}>
-          <img src="/images/profile.jpg" alt="category profile" />
+          <img src={profile} alt="category profile" />
         </div>
       </div>
     </header>
