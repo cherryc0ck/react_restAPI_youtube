@@ -1,0 +1,90 @@
+.video {
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.tag__container {
+  margin-bottom: 5px;
+  color: blue;
+  font-size: 16px;
+}
+
+.tag {
+  margin-right: 10px;
+  font-weight: 200;
+}
+
+.title {
+  color: #424242;
+  margin-bottom: 20px;
+  font-size: 25px;
+  font-weight: 500;
+  letter-spacing: 1.2px;
+}
+
+.statistics__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #424242;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.btn {
+  padding: 0 20px;
+  border: none;
+  background: none;
+  color: grey;
+  font-size: 26px;
+  cursor: pointer;
+  transition: color 250ms ease-in;
+}
+
+.btn:hover {
+  color: black;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn span {
+  padding: 0 10px;
+  color: #424242;
+  font-size: 21px;
+}
+
+.channel {
+  padding: 20px 0;
+  border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+}
+
+.channel__main {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.channel__main img {
+  width: 60px;
+  height: 60px;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+
+.channel__main h3 {
+  font-weight: 400;
+}
+
+.channel__sub {
+  margin-left: 70px;
+}
+
+.channel__sub pre {
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.4em;
+}
