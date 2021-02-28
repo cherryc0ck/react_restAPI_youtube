@@ -6,6 +6,7 @@ import lol from './images/lol.png';
 import music from './images/music.png';
 import profile from './images/profile.jpg';
 
+
 const SearchHeader = memo((props) => {
   const inputRef = useRef();
 
@@ -29,12 +30,18 @@ const SearchHeader = memo((props) => {
     props.onSearch(value);
   };
 
+  const goMain = () => {
+    console.log("goMain");
+    let pageUrl = 'https://oriharaa.github.io/react_restAPI_youtube';
+    document.location.href = pageUrl;
+  };
+
   return (
     <header className={styles.header}>
-      <a className={styles.logo} >
+      <div className={styles.logo} onClick={goMain}>
         <img className={styles.img}src={logo} alt="logo" />
         <h1 className={styles.title}>Premium</h1>
-      </a>
+      </div>
       <input 
         className={styles.input}
         type="search"
