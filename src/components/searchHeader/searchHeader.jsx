@@ -31,7 +31,7 @@ const SearchHeader = memo((props) => {
 
   return (
     <header className={styles.header}>
-      <a href="#" className={styles.logo}>
+      <a className={styles.logo} >
         <img className={styles.img}src={logo} alt="logo" />
         <h1 className={styles.title}>Premium</h1>
       </a>
