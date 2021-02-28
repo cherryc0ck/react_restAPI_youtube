@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react_restAPI_youtube/static/css/main.bfe712d2.chunk.css",
-    "main.js": "/react_restAPI_youtube/static/js/main.e0572632.chunk.js",
-    "main.js.map": "/react_restAPI_youtube/static/js/main.e0572632.chunk.js.map",
+    "main.css": "/react_restAPI_youtube/static/css/main.d488f548.chunk.css",
+    "main.js": "/react_restAPI_youtube/static/js/main.aac18524.chunk.js",
+    "main.js.map": "/react_restAPI_youtube/static/js/main.aac18524.chunk.js.map",
     "runtime-main.js": "/react_restAPI_youtube/static/js/runtime-main.dd17f9bb.js",
     "runtime-main.js.map": "/react_restAPI_youtube/static/js/runtime-main.dd17f9bb.js.map",
     "static/js/2.cfd69543.chunk.js": "/react_restAPI_youtube/static/js/2.cfd69543.chunk.js",
     "static/js/2.cfd69543.chunk.js.map": "/react_restAPI_youtube/static/js/2.cfd69543.chunk.js.map",
     "index.html": "/react_restAPI_youtube/index.html",
-    "static/css/main.bfe712d2.chunk.css.map": "/react_restAPI_youtube/static/css/main.bfe712d2.chunk.css.map",
+    "static/css/main.d488f548.chunk.css.map": "/react_restAPI_youtube/static/css/main.d488f548.chunk.css.map",
     "static/js/2.cfd69543.chunk.js.LICENSE.txt": "/react_restAPI_youtube/static/js/2.cfd69543.chunk.js.LICENSE.txt",
     "static/media/lol.29753f0d.png": "/react_restAPI_youtube/static/media/lol.29753f0d.png",
     "static/media/music.1e3ef330.png": "/react_restAPI_youtube/static/media/music.1e3ef330.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.dd17f9bb.js",
     "static/js/2.cfd69543.chunk.js",
-    "static/css/main.bfe712d2.chunk.css",
-    "static/js/main.e0572632.chunk.js"
+    "static/css/main.d488f548.chunk.css",
+    "static/js/main.aac18524.chunk.js"
   ]
 }
