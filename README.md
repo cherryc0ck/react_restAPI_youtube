@@ -20,7 +20,7 @@ REST API(Youtube Data Api)를 이용하여 Youtube page를 클론 코딩하였�
 
 ### Project Purpose
 
-- React 실전 연습
+- React 실전 연습d
 - React Hook 활용
 - CSS모듈화(POST CSS) 연습
 - 비동기 네트워크 개념 복습과 실전활용
