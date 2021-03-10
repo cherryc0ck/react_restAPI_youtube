@@ -31,7 +31,6 @@ const SearchHeader = memo((props) => {
   };
 
   const goMain = () => {
-    console.log("goMain");
     let pageUrl = 'https://oriharaa.github.io/react_restAPI_youtube';
     document.location.href = pageUrl;
   };

@@ -41,7 +41,24 @@ REST API(Youtube Data Api)를 이용하여 Youtube page를 클론 코딩하였�
 
 ### Project Description
 
+<br/>
+
 #### Main Page & First Screen
 
-`YouTube Data API를 통해 한국에서 가장 인기있는`<br/>
-`비디오 리스트 정보를 가져와서 보여준다.`
+`YouTube Data API를 통해 한국에서 가장 인기있는 비디오 리스트 정보를 가져와서 보여준다.`
+
+- Desktop
+
+  <img src="./public/images/README/main-desktop-img.JPG" >
+
+<br/>
+
+- Mobile
+
+  <img src="./public/images/README/main-mobile-img.JPG" width="300px">
+
+<br/>
+
+- Video View
+
+  <img src="./public/images/README/video-view.gif">
