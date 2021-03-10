@@ -49,16 +49,16 @@ REST API(Youtube Data Api)를 이용하여 Youtube page를 클론 코딩하였�
 
 - Desktop
 
-  <img src="./public/images/README/main-desktop-img.JPG" >
+  ![youtube main-page](https://user-images.githubusercontent.com/60921094/110648643-3b34f480-81fc-11eb-8950-9825ffe3aa2a.JPG)
 
 <br/>
 
 - Mobile
 
-  <img src="./public/images/README/main-mobile-img.JPG" width="300px">
+  ![youtube mobile-page](https://user-images.githubusercontent.com/60921094/110648748-54d63c00-81fc-11eb-835e-e568b35d071d.JPG)
 
 <br/>
 
 - Video View
 
-  <img src="./public/images/README/video-view.gif">
+  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60921094/110650092-93202b00-81fd-11eb-9d86-337f52937080.gif)
