@@ -5,7 +5,7 @@
 
 REST API(Youtube Data Api)를 이용하여 Youtube page를 클론 코딩하였습니다.
 
-👁 [URL 바로가기](https://oriharaa.github.io/react_restAPI_youtube/)
+👁 [URL 바로가기](https://cherryc0ck.github.io/react_restAPI_youtube/)
 <br/>
 <br/>
 
@@ -13,10 +13,10 @@ REST API(Youtube Data Api)를 이용하여 Youtube page를 클론 코딩하였�
 
 1. [Project Purpose](#Project-Purpose)
 2. [Development Stack](#Development-Stack)
-3. [Project Description](#Project-Description)
-
-<br/>
-<br/>
+3. [Project View](#Project-Description)
+4. [To do list](#To-do-list)
+   <br/>
+   <br/>
 
 ### Project Purpose
 
@@ -39,7 +39,7 @@ REST API(Youtube Data Api)를 이용하여 Youtube page를 클론 코딩하였�
 <br/>
 <br/>
 
-### Project Description
+### Project View
 
 <br/>
 
@@ -62,3 +62,13 @@ REST API(Youtube Data Api)를 이용하여 Youtube page를 클론 코딩하였�
 - Video View
 
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60921094/110650092-93202b00-81fd-11eb-9d86-337f52937080.gif)
+
+---
+
+### To do list
+
+---
+
+1. ~~lol, react, music카테고리 기능~~
+
+2. ~~좋아요, 싫어요 기능~~

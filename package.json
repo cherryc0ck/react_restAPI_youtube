@@ -2,7 +2,7 @@
   "name": "template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oriharaa.github.io/react_restAPI_youtube/",
+  "homepage": "https://cherryc0ck.github.io/react_restAPI_youtube/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.2",
     "@testing-library/jest-dom": "^5.11.4",
