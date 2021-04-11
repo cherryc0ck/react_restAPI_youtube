@@ -3,7 +3,7 @@
 **React Project**<br/>
 `#React Hook` `#Post CSS`<br/>
 
-REST API(Youtube Data Api)를 이용하여 Youtube page를 클론 코딩하였습니다.
+React를 바탕으로 Youtube Data API를 활용하여 Youtube page를 클론 코딩하였습니다.
 
 👁 [URL 바로가기](https://cherryc0ck.github.io/react_restAPI_youtube/)
 <br/>
