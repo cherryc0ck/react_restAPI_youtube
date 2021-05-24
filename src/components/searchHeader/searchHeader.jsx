@@ -31,7 +31,7 @@ const SearchHeader = memo((props) => {
   };
 
   const goMain = () => {
-    let pageUrl = 'https://oriharaa.github.io/react_restAPI_youtube';
+    let pageUrl = 'https://cherryc0ck.github.io/react_restAPI_youtube/';
     document.location.href = pageUrl;
   };
 
